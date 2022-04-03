@@ -13,7 +13,7 @@ Its really simple to send your messages! just define the url and message or embe
 
 # This tool uses custom language
 To send your message or embed to the webhook you'll first need to learn the language, trust me its simple
-
+```
 > *required
 
 <url: discord_link> - this always has to be on top. the most important part of the code, includes webhook link (from discord)*
@@ -23,11 +23,11 @@ To send your message or embed to the webhook you'll first need to learn the lang
 <title: text> - the text that will be shown as the title
 <description: text> - the text that will be shown as the title
 
-<author.name: name> - the author name&emsp;
-<author.url: link> - the link it will be redirecting after clicking on the author name&emsp;
-<author.icon: link> - link to the image that will be shown next to the author name&emsp;
+<author.name: name> - the author name
+<author.url: link> - the link it will be redirecting after clicking on the author name
+<author.icon: link> - link to the image that will be shown next to the author name
 
-{field name;field content} - fields, to set the field title use the 1st half (field name) to define the content use the 2nd half (field content)&emsp;
+{field name;field content} - fields, to set the field title use the 1st half (field name) to define the content use the 2nd half (field content)
 
 <footer: text> - the text thats going to be shown at the bottom of the embed
 
