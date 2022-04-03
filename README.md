@@ -12,8 +12,8 @@ To send your message or embed to the webhook you'll first need to learn the lang
 <pre style="background-color: rgba(0,0,0,0.1); border-radius: 15px;">
 *required
 
-<‏url: discord_link‏> - this always has to be on top. the most important part of the code, includes <strong>webhook link</strong> (from discord)*
-<‏color: 101010> - embed color in <strong>hex code</strong>*
+< url: discord_link> - this always has to be on top. the most important part of the code, includes <strong>webhook link</strong> (from discord)*
+< color: 101010> - embed color in <strong>hex code</strong>*
 
 <‏message: text> - message that will be send along with the embed
 <‏title: text> - the text that will be shown as the title
@@ -25,5 +25,5 @@ To send your message or embed to the webhook you'll first need to learn the lang
 
 {field name;field content} - fields, to set the field title use the 1st half (field name) to define the content use the 2nd half (field content)
 
-<‏footer: text> - the text thats going to be shown at the bottom of the embed
+<‏footer: text> - the text thats going to be shown at the bottom of the embed 
 
