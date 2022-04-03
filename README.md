@@ -10,7 +10,7 @@ To send your message or embed to the webhook you'll first need to learn the lang
 <pre style="background-color: rgba(0,0,0,0.1); border-radius: 15px;">
 *required
 <url: discord_link> - this always has to be on top. the most important part of the code, includes <strong>webhook link</strong> (from discord)*
-<p><Ccolor: 101010> - embed color in <strong>hex code</strong>*</p>
+<color: 101010> - embed color in <strong>hex code</strong>*
 
 <message: text> - message that will be send along with the embed
 <title: text> - the text that will be shown as the title
