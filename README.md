@@ -1,5 +1,6 @@
-<h1>DisHook</h>
-<h2>Its highly customisable!</h2>
+# DisHook
+
+# Its highly customisable!
 It has custom but simple editing language. You can make basicly everything with this tool! Anything as simple as a message to something complex as
 huge embeds with all of your server rules
 
@@ -26,7 +27,7 @@ To send your message or embed to the webhook you'll first need to learn the lang
 <author.url: link> - the link it will be redirecting after clicking on the author name
 <author.icon: link> - link to the image that will be shown next to the author name
 
-{field name;field content} - fields, to set the field title use the 1st half (field name) to define the content use the 2nd half (field content)
+{field name;field content} - fields, to set the field title use the 1st half (field name) to define the content use the 2nd half (field content)&emsp;
 
 <footer: text> - the text thats going to be shown at the bottom of the embed
 
