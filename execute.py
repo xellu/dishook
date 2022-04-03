@@ -41,6 +41,7 @@ except:
 
 <author.name: author>
 <author.url: https://github.com/xellu/>
+<author.icon: https://some_website.com/image.png> 
 
 {field name,field value}
 
