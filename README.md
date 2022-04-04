@@ -29,5 +29,8 @@ To send your message or embed to the webhook you'll first need to learn the lang
 
 {field name;field content} - fields, to set the field title use the 1st half (field name) to define the content use the 2nd half (field content)
 
+<image: link> - large image on the bottom of your embed, link required
+
 <footer: text> - the text thats going to be shown at the bottom of the embed
+<timestamp> - enables timestamps at the bottom of the embed (next to the footer text)
 
